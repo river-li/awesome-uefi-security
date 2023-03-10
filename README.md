@@ -14,9 +14,8 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 - [Papers](#papers-page_with_curl)
 
 
----
 
-## Documentations :book
+## Documentations :book:
 
 - [UEFI Forum](https://uefi.org/)
 - [UEFI Specification v2.10](https://uefi.org/sites/default/files/resources/UEFI_Spec_2_10_Aug29.pdf)
@@ -173,7 +172,7 @@ Bootkits related repositories:
 | 2017 | REcon| [BARing the System New vulnerabilities in Coreboot & UEFI based systems](http://www.c7zero.info/stuff/REConBrussels2017_BARing_the_system.pdf)|
 
 
-## Blogs :newspaper
+## Blogs :newspaper:
 
 - [Binarly-IO](https://www.binarly.io)
     - [Multiple Vulnerabilities In Qualcomm And Lenovo ARM-Based Devices](https://www.binarly.io/posts/Multiple_Vulnerabilities_in_Qualcomm_and_Lenovo_ARM_based_Devices)
@@ -257,7 +256,7 @@ Bootkits related repositories:
     - [Attacking UEFI Runtime Services and Linux](http://blog.frizk.net/2017/01/attacking-uefi-and-linux.html)
 
 
-## Papers :page_with_curl
+## Papers :page_with_curl:
 
 | Year | Jour/Conf | Paper |
 | :---: |:---:| :---: |
@@ -274,7 +273,7 @@ Bootkits related repositories:
 
 
 
-## Training & Courses ：beginner:
+## Training & Courses :beginner:
 - [Advanced x86: Introduction to BIOS & SMM](https://opensecuritytraining.info/IntroBIOS.html)
 - [UEFI Official Learning Center](https://uefi.org/learning_center)
 - [EDK II Secure Code Review Guide](https://edk2-docs.gitbook.io/edk-ii-secure-code-review-guide/)
