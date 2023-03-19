@@ -104,6 +104,8 @@ Bootkits related repositories:
 - [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch): Vulnerabilities found by Binarly-IO, really a lot.
 - [vulnerability-disclosures](https://github.com/eset/vulnerability-disclosures): Vulnerabilities found by ESET, some of the vulnerabilities in the repo related to UEFI.
 - [vulnerabilities](https://github.com/10TG/vulnerabilities): Vulnerabilities found by 10TG, some of the vulnerabilities related to UEFI.
+- [CVE-2022-3430, CVE-2022-3431, CVE-2022-3432](https://twitter.com/ESETresearch/status/1590279786751881216): These three vulnerabilities are found by ESET Research, all of which are NVRAM vulnerabilities in Lenovo devices that could disable Secure Boot.
+- [CVE-2022-4020](https://twitter.com/ESETresearch/status/1597227775420952579): NVRAM vulnerability found by ESET Research, which exists in Acer devices and could disable Secure Boot by setting a UEFI Variable.
 - [ThinkPwn](https://github.com/Cr4sh/ThinkPwn)
 - [Aptiocalypsis](https://github.com/Cr4sh/Aptiocalypsis)
 - [UsbRt_ROP](https://github.com/binarly-io/Research_Publications/tree/main/OffensiveCon_2022/UsbRt_ROP_PoC)
