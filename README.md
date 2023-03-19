@@ -79,6 +79,7 @@ Bootkits related repositories:
 - [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser)
 - [uefi-retool](https://github.com/yeggor/uefi_retool)
 - [BIOSUtiities](https://github.com/platomav/BIOSUtilities)
+- [innoextract](https://github.com/dscharrer/innoextract): A tool to unpack installers created by Inno Setup
 - [Chipsec](https://github.com/chipsec/chipsec)
 - [LVFS](https://fwupd.org)
 - [EfiGuard](https://github.com/Mattiwatti/EfiGuard)
