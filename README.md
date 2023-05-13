@@ -249,6 +249,9 @@ Bootkits related repositories:
     - [S3 Sleep, Resume and Handling Them with Type-1 Hypervisor](https://standa-note.blogspot.com/2020/11/s3-sleep-resume-and-handling-them-with.html)
     - [Introductory Study of IOMMU (VT-d) and Kernel DMA Protection on Intel Processors](https://standa-note.blogspot.com/2020/05/introductory-study-of-iommu-vt-d-and.html)
 
+- [NCCGroup](https://research.nccgroup.com)
+    - [Stepping Insyde System Management Mode](https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/)
+    - [A Race to Report a TOCTOU: Analysis of a Bug Collision in Intel SMM](https://research.nccgroup.com/2023/03/15/a-race-to-report-a-toctou-analysis-of-a-bug-collision-in-intel-smm/)
 
 - Others
     - [Debugging System with DCI and Windbg](https://standa-note.blogspot.com/2021/03/debugging-system-with-dci-and-windbg.html)
