@@ -4,14 +4,16 @@
 This repository contains a collection of UEFI/BIOS security materials. Collected my own, not comprehensive. Feel free to PR.
 
 
-- [Documentations](#documentations-book)
-- [Development](#development-computer)
-- [Bootkit](#bootkits-bomb)
-- [Tools](#tools-hammer)
-- [Vulnerabilities & Exploits](#vulnerabilities--exploits-mag_right)
-- [Talks](#talks-speaker)
-- [Blogs](#blogs-newspaper)
-- [Papers](#papers-page_with_curl)
+- [Awesome UEFI Security ](#awesome-uefi-security-)
+  - [Documentations :book:](#documentations-book)
+  - [Development :computer:](#development-computer)
+  - [Bootkits :bomb:](#bootkits-bomb)
+  - [Tools :hammer:](#tools-hammer)
+  - [Vulnerabilities \& Exploits :mag\_right:](#vulnerabilities--exploits-mag_right)
+  - [Talks :speaker:](#talks-speaker)
+  - [Blogs :newspaper:](#blogs-newspaper)
+  - [Papers :page\_with\_curl:](#papers-page_with_curl)
+  - [Training \& Courses :beginner:](#training--courses-beginner)
 
 
 
@@ -253,6 +255,7 @@ Bootkits related repositories:
 - [NCCGroup](https://research.nccgroup.com)
     - [Stepping Insyde System Management Mode](https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/)
     - [A Race to Report a TOCTOU: Analysis of a Bug Collision in Intel SMM](https://research.nccgroup.com/2023/03/15/a-race-to-report-a-toctou-analysis-of-a-bug-collision-in-intel-smm/)
+    - [Intel BIOS Advisory – Memory Corruption in HID Drivers ](https://research.nccgroup.com/2023/08/08/intel-bios-advisory-memory-corruption-in-hid-drivers/)
 
 - Others
     - [Debugging System with DCI and Windbg](https://standa-note.blogspot.com/2021/03/debugging-system-with-dci-and-windbg.html)
@@ -261,7 +264,7 @@ Bootkits related repositories:
     - [BIOS Based Rootkits](http://www.exfiltrated.com/research-BIOS_Based_Rootkits.php)
     - [Understanding modern UEFI-based platform boot](https://depletionmode.com/uefi-boot.html)
     - [Attacking UEFI Runtime Services and Linux](http://blog.frizk.net/2017/01/attacking-uefi-and-linux.html)
-
+    - [Using an Unimpressive Bug in EDK II to Do Some Fun Exploitation](https://blog.quarkslab.com/for-science-using-an-unimpressive-bug-in-edk-ii-to-do-some-fun-exploitation.html)
 
 ## Papers :page_with_curl:
 
