@@ -128,6 +128,7 @@ Bootkits related repositories:
 - [CVE-2014-8274](https://www.kb.cert.org/vuls/id/976132)
 - [Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk)
 - [SmmExploit](https://github.com/tandasat/SmmExploit)
+- [CERT/CC UEFI Analysis Resources](https://github.com/CERTCC/UEFI-Analysis-Resources): This repo contains an example of CVE-2021-28216
 
 
 ## Talks :speaker:
