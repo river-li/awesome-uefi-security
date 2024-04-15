@@ -5,6 +5,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 
 
 - [Awesome UEFI Security ](#awesome-uefi-security-)
+  - [CTF Challenges](#ctf-challenges)
   - [Documentations :book:](#documentations-book)
   - [Development :computer:](#development-computer)
   - [Bootkits :bomb:](#bootkits-bomb)
@@ -15,6 +16,12 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
   - [Papers :page\_with\_curl:](#papers-page_with_curl)
   - [Training \& Courses :beginner:](#training--courses-beginner)
 
+
+## CTF-Challenges
+
+- [UIUC-2022 SMM Cow Say 1](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_1)
+- [UIUC-2022 SMM Cow Say 2](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_2)
+- [UIUC-2022 SMM Cow Say 3](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_3)
 
 
 ## Documentations :book:
