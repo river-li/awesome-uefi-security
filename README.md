@@ -106,6 +106,10 @@ Bootkits related repositories:
 - [UEFI-SecureBoot-SignTool](https://github.com/aneesh-neelam/UEFI-SecureBoot-SignTool)
 - [PciLeech](https://github.com/ufrisk/pcileech): PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
 - [bob_efi_fuzzer](https://github.com/HO-9/bob_efi_fuzzer)
+- [uefi-rs](https://github.com/rust-osdev/uefi-rs): A rust wrapper for UEFI. You can built UEFI applications and vulnerabilities PoCs easily with this library.
+- [tsffs](https://github.com/intel/tsffs): A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
+- [efi-inspector](https://github.com/zznop/efi-inspector): A Binary Ninja plugin for parsing UEFI firmware images.
+- [efi-resolver](https://github.com/Vector35/efi-resolver): Official UEFI plugin for Binary Ninja; it supports type propogation, which is really cool, and it starts supporting PEI files now.
 
 
 
