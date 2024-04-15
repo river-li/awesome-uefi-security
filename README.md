@@ -281,8 +281,8 @@ Bootkits related repositories:
 
 | Year | Jour/Conf | Paper |
 | :---: |:---:| :---: |
-| 2024 | arXiv | [SoK: Security Below the OS – A Security Analysis of UEFI](http://arxiv.org/abs/2311.03809) |
 | 2023 | S&P | [RSFUZZER: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b765/1Js0Ek1SE6c) |
+| 2023 | arXiv | [SoK: Security Below the OS – A Security Analysis of UEFI](http://arxiv.org/abs/2311.03809) |
 | 2023 | China CIC | [A Survey on the Evolution of Bootkits Attack and Defense Techniques](http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2022-0409) |
 | 2022 | S&P | [Finding SMM Privilege-Escalation Vulnerabilities in UEFI Firmware with Protocol-Centric Static Analysis](https://dblp.uni-trier.de/conf/sp/YinLWSZHX22) |
 | 2022 | IH&MMSec| [Hidden in Plain Sight - Persistent Alternative Mass Storage Data Streams as a Means for Data Hiding With the Help of UEFI NVRAM and Implications for IT Forensics](https://dl.acm.org/doi/pdf/10.1145/3531536.3532965)|
