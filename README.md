@@ -76,20 +76,20 @@ Bootkits related repositories:
 
 ## Tools :hammer:
 
-- [efiXplorer](https://github.com/binarly-io/efiXplorer)
-- [UEFITool](https://github.com/)
-- [brick](https://github.com/Sentinel-One/brick)
+- [efiXplorer](https://github.com/binarly-io/efiXplorer): IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
+- [UEFITool](https://github.com/): Tool for parsing and extracting UEFI firmware images.
+- [brick](https://github.com/Sentinel-One/brick): IDA Pro plugin, a static vulnerability scanner, support several types of vulnerabilities.
 - [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan)
 - [FwHunt](https://github.com/binarly-io/fwhunt)
-- [qiling](https://github.com/qilingframework/qiling)
-- [efiSeek](https://github.com/DSecurity/efiSeek)
-- [efi_fuzz](https://github.com/Sentinel-One/efi_fuzz)
-- [efi_dxe_emulator](https://github.com/assafcarlsbad/efi_dxe_emulator)
-- [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser)
+- [qiling](https://github.com/qilingframework/qiling): Qiling has an EFI mode, which can partially emulate UEFI binary files.
+- [efiSeek](https://github.com/DSecurity/efiSeek): A Ghidra plugin for UEFI binaries analyzing.
+- [efi_fuzz](https://github.com/Sentinel-One/efi_fuzz): A coverage-guided emulator-based NVRAM fuzzer for UEFI (based on qiling).
+- [efi_dxe_emulator](https://github.com/assafcarlsbad/efi_dxe_emulator): A simple emulator for UEFI DXE files.
+- [uefi-firmware-parser](https://github.com/theopolis/uefi-firmware-parser): Library for parsing UEFI firmware images.
 - [uefi-retool](https://github.com/yeggor/uefi_retool)
-- [BIOSUtiities](https://github.com/platomav/BIOSUtilities)
+- [BIOSUtiities](https://github.com/platomav/BIOSUtilities): A lot of scripts to parse and extract UEFI firmware images directly from exe files.
 - [innoextract](https://github.com/dscharrer/innoextract): A tool to unpack installers created by Inno Setup
-- [Chipsec](https://github.com/chipsec/chipsec)
+- [Chipsec](https://github.com/chipsec/chipsec): The most commonly used tool for extracting UEFI firmware and exploiting UEFI vulnerabilities.
 - [LVFS](https://fwupd.org)
 - [EfiGuard](https://github.com/Mattiwatti/EfiGuard)
 - [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils)
@@ -104,7 +104,7 @@ Bootkits related repositories:
 - [smram_parse](https://github.com/Cr4sh/smram_parse)
 - [ebvm](https://github.com/yabits/ebcvm)
 - [UEFI-SecureBoot-SignTool](https://github.com/aneesh-neelam/UEFI-SecureBoot-SignTool)
-- [PciLeech](https://github.com/ufrisk/pcileech)
+- [PciLeech](https://github.com/ufrisk/pcileech): PciLeech supports DMA attacks against UEFI, and it contains a mode can hook UEFI Runtime Services and print some chars.
 - [bob_efi_fuzzer](https://github.com/HO-9/bob_efi_fuzzer)
 
 
