@@ -134,6 +134,7 @@ Bootkits related repositories:
 
 | Year | Conference | Title |
 |:---:|:---:|:---:|
+| 2023 | Blackhat Europe | [LogoFAIL: Security implications of image parsing during system boot](https://i.blackhat.com/EU-23/Presentations/EU-23-Pagani-LogoFAIL-Security-Implications-of-Image_REV2.pdf) |
 | 2023 | Blackhat Asia | [The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust](https://www.blackhat.com/asia-23/briefings/schedule/#the-various-shades-of-supply-chain-sbom-n-days-and-zero-trust-31253)|
 | 2021 | AVAR | [The Evolution of Threat Actors: Firmware is the Next Frontier](https://github.com/binarly-io/Research_Publications/tree/main/AVAR_2021)|
 | 2022 | Blackhat USA| [Breaking Firmware Trust From Pre-EFI: Exploiting Early Boot Phases](https://www.blackhat.com/us-22/briefings/schedule/index.html#breaking-firmware-trust-from-pre-efi-exploiting-early-boot-phases-27229)|
