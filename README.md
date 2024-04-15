@@ -115,6 +115,7 @@ Bootkits related repositories:
 
 ## Vulnerabilities & Exploits :mag_right:
 
+- [PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack.](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 - [Vulnerability-REsearch](https://github.com/binarly-io/Vulnerability-REsearch): Vulnerabilities found by Binarly-IO, really a lot.
 - [vulnerability-disclosures](https://github.com/eset/vulnerability-disclosures): Vulnerabilities found by ESET, some of the vulnerabilities in the repo related to UEFI.
 - [vulnerabilities](https://github.com/10TG/vulnerabilities): Vulnerabilities found by 10TG, some of the vulnerabilities related to UEFI.
