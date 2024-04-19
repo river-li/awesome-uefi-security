@@ -41,6 +41,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 - [uefi-rs](https://github.com/rust-osdev/uefi-rs)
 - [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons)
 - [arch-secure-boot](https://github.com/maximbaz/arch-secure-boot)
+- [EDK II Module Write Guide](https://tianocore-docs.github.io/edk2-ModuleWriteGuide)
 
 Some interesting projects
 - [uefi-paint](https://github.com/nrdmn/uefi-paint)
