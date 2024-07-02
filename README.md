@@ -111,6 +111,7 @@ Bootkits related repositories:
 - [tsffs](https://github.com/intel/tsffs): A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS, released by Intel.
 - [efi-inspector](https://github.com/zznop/efi-inspector): A Binary Ninja plugin for parsing UEFI firmware images.
 - [efi-resolver](https://github.com/Vector35/efi-resolver): Official UEFI plugin for Binary Ninja; it supports type propogation, which is really cool, and it starts supporting PEI files now.
+- [python-uefivars](https://github.com/awslabs/python-uefivars): A python tool to inspect UEFI variables (but it cannot take firmware images as input).
 
 
 
