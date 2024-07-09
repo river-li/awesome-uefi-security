@@ -24,6 +24,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 - [UIUCTF-2022 SMM Cow Say 3](https://github.com/sigpwny/UIUCTF-2022-Public/tree/main/systems/smm_cowsay_3)
 - [D^3CTF-2022-pwn-d3guard](https://github.com/yikesoftware/d3ctf-2022-pwn-d3guard)
 - [corCTF 2023 smm-diary](https://2023.cor.team/challs)
+- [Dubhe CTF 2024 ToySMM](https://dubhectf2024.xctf.org.cn/)
 
 
 ## Documentations :book:
