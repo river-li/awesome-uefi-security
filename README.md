@@ -25,7 +25,7 @@ This repository contains a collection of UEFI/BIOS security materials. Collected
 - [D^3CTF-2022-pwn-d3guard](https://github.com/yikesoftware/d3ctf-2022-pwn-d3guard)
 - [corCTF 2023 smm-diary](https://2023.cor.team/challs)
 - [Dubhe CTF 2024 ToySMM](https://dubhectf2024.xctf.org.cn/)
-
+- [DVUEFI](https://github.com/hacking-support/DVUEFI) 
 
 ## Documentations :book:
 
@@ -140,6 +140,7 @@ Bootkits related repositories:
 
 | Year | Conference | Title |
 |:---:|:---:|:---:|
+| 2024 | Blackhat USA ARSENAL | [Damn Vulnerable UEFI (DVUEFI): An Exploitation Toolkit and Learning Platform for Unveiling and Fixing UEFI Firmware Vulnerabilities](https://www.blackhat.com/us-24/arsenal/schedule/index.html#damn-vulnerable-uefi-dvuefi-an-exploitation-toolkit-and-learning-platform-for-unveiling-and-fixing-uefi-firmware-vulnerabilities-39058) |
 | 2023 | Blackhat Europe | [LogoFAIL: Security implications of image parsing during system boot](https://i.blackhat.com/EU-23/Presentations/EU-23-Pagani-LogoFAIL-Security-Implications-of-Image_REV2.pdf) |
 | 2023 | Blackhat Asia | [The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust](https://www.blackhat.com/asia-23/briefings/schedule/#the-various-shades-of-supply-chain-sbom-n-days-and-zero-trust-31253)|
 | 2021 | AVAR | [The Evolution of Threat Actors: Firmware is the Next Frontier](https://github.com/binarly-io/Research_Publications/tree/main/AVAR_2021)|
