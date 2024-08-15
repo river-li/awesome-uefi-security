@@ -140,6 +140,7 @@ Bootkits related repositories:
 
 | Year | Conference | Title |
 |:---:|:---:|:---:|
+| 2024 | Defcon | [AMD Sinkclose: Universal Ring -2 Privilege Escalation](https://info.defcon.org/event/?id=54863) |
 | 2024 | Blackhat USA ARSENAL | [Damn Vulnerable UEFI (DVUEFI): An Exploitation Toolkit and Learning Platform for Unveiling and Fixing UEFI Firmware Vulnerabilities](https://www.blackhat.com/us-24/arsenal/schedule/index.html#damn-vulnerable-uefi-dvuefi-an-exploitation-toolkit-and-learning-platform-for-unveiling-and-fixing-uefi-firmware-vulnerabilities-39058) |
 | 2023 | Blackhat Europe | [LogoFAIL: Security implications of image parsing during system boot](https://i.blackhat.com/EU-23/Presentations/EU-23-Pagani-LogoFAIL-Security-Implications-of-Image_REV2.pdf) |
 | 2023 | Blackhat Asia | [The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust](https://www.blackhat.com/asia-23/briefings/schedule/#the-various-shades-of-supply-chain-sbom-n-days-and-zero-trust-31253)|
