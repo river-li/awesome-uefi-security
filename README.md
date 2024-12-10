@@ -57,6 +57,7 @@ ATT&CK [Attack Vector](https://attack.mitre.org/techniques/T1542/003/)
 
 | Time | Name |
 |:---:|:---:|
+| Nov. 2024 | [Bootkitty](https://www.welivesecurity.com/en/eset-research/bootkitty-analyzing-first-uefi-bootkit-linux/)|
 | Oct. 2022 | [BlackLotus](https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/)|
 | Jul. 2022 | [CosmicStrand](https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/)|
 | Jan. 2022 | [MoonBounce](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/)|
@@ -141,6 +142,7 @@ Bootkits related repositories:
 | Year | Conference | Title |
 |:---:|:---:|:---:|
 | 2024 | Defcon | [AMD Sinkclose: Universal Ring -2 Privilege Escalation](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Enrique%20Nissim%20Krzysztof%20Okupski%20-%20AMD%20Sinkclose%20Universal%20Ring-2%20Privilege%20Escalation%20Redacted.pdf) |
+| 2024 | Blackhat USA | [You've Already Been Hacked: What if There Is a Backdoor in Your UEFI OROM?](https://www.blackhat.com/us-24/briefings/schedule/#you39ve-already-been-hacked-what-if-there-is-a-backdoor-in-your-uefi-orom-39579) |
 | 2024 | Blackhat USA ARSENAL | [Damn Vulnerable UEFI (DVUEFI): An Exploitation Toolkit and Learning Platform for Unveiling and Fixing UEFI Firmware Vulnerabilities](https://www.blackhat.com/us-24/arsenal/schedule/index.html#damn-vulnerable-uefi-dvuefi-an-exploitation-toolkit-and-learning-platform-for-unveiling-and-fixing-uefi-firmware-vulnerabilities-39058) |
 | 2023 | Blackhat Europe | [LogoFAIL: Security implications of image parsing during system boot](https://i.blackhat.com/EU-23/Presentations/EU-23-Pagani-LogoFAIL-Security-Implications-of-Image_REV2.pdf) |
 | 2023 | Blackhat Asia | [The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust](https://www.blackhat.com/asia-23/briefings/schedule/#the-various-shades-of-supply-chain-sbom-n-days-and-zero-trust-31253)|
