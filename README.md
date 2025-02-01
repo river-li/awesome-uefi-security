@@ -293,6 +293,7 @@ Bootkits related repositories:
 
 | Year | Jour/Conf | Paper |
 | :---: |:---:| :---: |
+| 2025 | arXiv | [UEFI Memory Forensics: A Framework for UEFI Threat Analysis](https://arxiv.org/pdf/2501.16962) |
 | 2025 | NDSS | [FUZZUER: Enabling Fuzzing of UEFI Interfaces on EDK-2](https://machiry.github.io/files/fuzzuerr.pdf) |
 | 2024 | ASE | [STASE: Static Analysis Guided Symbolic Execution for UEFI Vulnerability Signature Generation](https://dl.acm.org/doi/10.1145/3691620.3695543) |
 | 2023 | S&P | [RSFUZZER: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b765/1Js0Ek1SE6c) |
