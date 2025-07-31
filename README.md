@@ -84,6 +84,7 @@ Bootkits related repositories:
 - [efiXplorer](https://github.com/binarly-io/efiXplorer): IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
 - [UEFITool](https://github.com/): Tool for parsing and extracting UEFI firmware images.
 - [brick](https://github.com/Sentinel-One/brick): IDA Pro plugin, a static vulnerability scanner, support several types of vulnerabilities.
+- [Vulert](vulert.com): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan)
 - [FwHunt](https://github.com/binarly-io/fwhunt)
 - [qiling](https://github.com/qilingframework/qiling): Qiling has an EFI mode, which can partially emulate UEFI binary files.
