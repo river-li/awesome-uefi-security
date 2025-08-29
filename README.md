@@ -82,7 +82,7 @@ Bootkits related repositories:
 ## Tools :hammer:
 
 - [efiXplorer](https://github.com/binarly-io/efiXplorer): IDA Pro plugin, the best plugin for analyzing UEFI binaries for now.
-- [UEFITool](https://github.com/): Tool for parsing and extracting UEFI firmware images.
+- [UEFITool](https://github.com/LongSoft/UEFITool): Tool for parsing and extracting UEFI firmware images.
 - [brick](https://github.com/Sentinel-One/brick): IDA Pro plugin, a static vulnerability scanner, support several types of vulnerabilities.
 - [fwhunt-scan](https://github.com/binarly-io/fwhunt-scan)
 - [FwHunt](https://github.com/binarly-io/fwhunt)
